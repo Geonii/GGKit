@@ -1,2 +1,2 @@
 # GGKit
-just a test
+just test
